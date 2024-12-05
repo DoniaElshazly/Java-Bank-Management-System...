@@ -1,5 +1,4 @@
-# Java-Bank-Management-System...
-
+# Bank Management System
 
 This is a simple Bank Management System built using Java. It allows users to create a bank account (current or savings), deposit and withdraw money, view transaction history, and calculate interest for savings accounts. The system uses object-oriented programming principles to model accounts and transactions.
 
